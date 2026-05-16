@@ -4,8 +4,7 @@ A Super Mario-inspired game built in **C++** using the **SFML** framework.
 
 > Developed by:
 > - L24-3023 Muhammad Shehryar Waheed
-> - L24-3007 Husnain Khan
-> - L24-3063 Muazam Mehmood
+> Other Team Members
 
 ---
 
